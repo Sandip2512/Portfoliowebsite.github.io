@@ -365,7 +365,9 @@ img {
   border-bottom-right-radius: 0.5rem;
 }
 
-.work__title,
+.work__title,{
+  color: rgb(0, 0, 0); /* Change 'red' to your desired color value */
+}
 .work__description,
 .work__read-more {
   margin: 0;
@@ -386,7 +388,7 @@ img {
 
 /* Change font color to black */
 .work__title, .work__description {
-  color: #000;
+  color: #000000;
 }
 
 
